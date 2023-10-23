@@ -12,3 +12,5 @@ A complete MERN stack website for clarifying doubts online with anyone.
 # View
 
 ![Screenshot (14)](https://github.com/arshad1010/QueryQuencher_doubt-solver/assets/117597118/e5a20bd3-aee7-4f46-a906-5d84365fdf3f)
+![Screenshot (15)](https://github.com/arshad1010/QueryQuencher_doubt-solver/assets/117597118/4a6ec528-3d4b-4dc3-af06-59f7083f3c8b)
+
