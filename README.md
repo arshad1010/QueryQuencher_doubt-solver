@@ -10,4 +10,5 @@ A complete MERN stack website for clarifying doubts online with anyone.
 6) Restful Web Services
 
 # View
-![Screenshot (14)](https://github.com/arshad1010/QueryQuencher_doubt-solver/assets/117597118/2b8aa2e3-620d-47fe-a9c9-71f051f0d54e)
+
+![Screenshot (14)](https://github.com/arshad1010/QueryQuencher_doubt-solver/assets/117597118/e5a20bd3-aee7-4f46-a906-5d84365fdf3f)
